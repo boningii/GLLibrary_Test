@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "gl_lib::CPUFunc::SaturationByRate(float, gl_lib::Image2D*, gl_lib::Image2D*):glCPUFunction.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "kFloatEpsilon">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "gl_lib::ContrastLumi::Draw(float, float):glRenderContrastLuminance.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
